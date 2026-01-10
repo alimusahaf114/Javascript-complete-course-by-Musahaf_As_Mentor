@@ -52,3 +52,10 @@
 //     }
     
 // }
+
+function add(){
+    console.log("Hello");
+    return 9
+    
+}
+add()
